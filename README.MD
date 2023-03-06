@@ -41,7 +41,6 @@
   
 
    <img src="images/burgerplace - Pedidos.png" align="center" height="500em" width="100%" href="https://rafarz76dev-03-desafiostackx-web-3-0-vue-js.vercel.app">    
-
   
  ***
 ###  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Neste repositório foi organizado algumas implementações de branches: 
