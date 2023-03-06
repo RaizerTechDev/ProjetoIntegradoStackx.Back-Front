@@ -41,16 +41,21 @@
 
 
    <img src="images/burgerplace - Pedidos.png" align="center" height="500em" width="100%" href="https://rafarz76dev-03-desafiostackx-web-3-0-vue-js.vercel.app">
+   
+     
+1. Desenvolvimento Front-End  
+  - [release/desenvolvimento-front-end](https://github.com/RafaRz76Dev/ProjetoIntegradoStackx.Back-Front/tree/master/PROJETOINTEGRADO-FRONT-VUE-master)
+  
+2. Desenvolvimento Back-End 
+- [release/desenvolvimento-back-end](https://github.com/RafaRz76Dev/ProjetoIntegradoStackx.Back-Front/tree/master/PROJETOINTEGRADO-BACKEND-SERVER-master) 
+  
+
+  
   
   
  ***
 ###  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Neste repositório foi organizado algumas implementações de branches: 
-  
-1. Desenvolvimento Front-End  
-  - [release/desenvolvimento-front-end](https://github.com/RafaRz76Dev/PROJETOINTEGRADOSTACKX-FRONT-BACK/tree/master/bugerplace-frontend)
-  
-2. Desenvolvimento Back-End  
-  - [release/desenvolvimento-back-end](https://github.com/RafaRz76Dev/PROJETOINTEGRADOSTACKX-FRONT-BACK/tree/master/burgerplace-backend)
+ [release/desenvolvimento-back-end](https://github.com/RafaRz76Dev/PROJETOINTEGRADOSTACKX-FRONT-BACK/tree/master/burgerplace-backend)
   
 ***
 ### 😀👀 Bora conhecer o projeto....
