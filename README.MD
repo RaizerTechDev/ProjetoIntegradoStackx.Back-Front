@@ -24,9 +24,9 @@
 
 🎯 Banco de Dados <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```db.json``` 
 
-🎯 Front-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Vue.js``` 
+🎯 Front-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Vuejs``` 
 
-🎯 Back-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Node.js```
+🎯 Back-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Json-Server & Nodejs```
 
  <br>
 
