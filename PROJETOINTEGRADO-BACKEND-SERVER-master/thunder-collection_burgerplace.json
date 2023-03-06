@@ -1,0 +1,117 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "burgerplace",
+    "dateExported": "2023-03-06T12:32:51.937Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "25dabe0e-7f77-419a-91ba-2e5f22bb282b",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "listar/ingredientes",
+            "url": "http://localhost:3000/ingredientes",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-02-23T18:39:10.567Z",
+            "modified": "2023-03-05T23:28:26.047Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8da3df15-d64e-446f-8e47-c5e2054fa0d8",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "criar/burgers",
+            "url": "http://localhost:3000/burgers",
+            "method": "POST",
+            "sortNum": 15000,
+            "created": "2023-02-23T18:40:11.784Z",
+            "modified": "2023-03-05T23:27:36.088Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "  {\n    \"nome\": \"Mirian Goulart\",\n    \"carne\": \"Veggie burger\",\n    \"pao\": \"Integral\",\n    \"opcionais\": [\n      \"Pepino\"\n    ],\n    \"status\": \"Solicitado\",\n    \"id\": 3\n  }",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "bf49f7bc-40c7-444a-914a-186d1261db1c",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "listar/burgers",
+            "url": "http://localhost:3000/burgers",
+            "method": "GET",
+            "sortNum": 16250,
+            "created": "2023-02-23T18:53:05.123Z",
+            "modified": "2023-03-05T23:25:30.684Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "013613f2-22ed-414b-805b-51e80c645901",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "listar/burgers/id",
+            "url": "http://localhost:3000/burgers/2",
+            "method": "GET",
+            "sortNum": 17500,
+            "created": "2023-02-23T18:40:58.136Z",
+            "modified": "2023-03-05T23:27:10.712Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "6d1b10f9-53a6-48db-ade1-a9df55a7384b",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "listar/status",
+            "url": "http://localhost:3000/status",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-02-23T18:39:37.790Z",
+            "modified": "2023-03-05T23:27:16.625Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "a6f71d53-88d5-474d-a3d9-59870287e6f4",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "atualizar/burgers/id",
+            "url": "http://localhost:3000/burgers/2",
+            "method": "PATCH",
+            "sortNum": 40000,
+            "created": "2023-02-23T19:00:30.281Z",
+            "modified": "2023-03-06T12:30:40.973Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "  {\n         \"status\": \"Em Produção\"\n  }\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "34847e04-8d47-4d26-9238-3e0167024a5c",
+            "colId": "cd3faece-fbb2-49ce-9b23-f05ba88899f3",
+            "containerId": "",
+            "name": "deletar/burgers/id",
+            "url": "http://localhost:3000/burgers/3",
+            "method": "DELETE",
+            "sortNum": 60000,
+            "created": "2023-02-23T19:03:54.764Z",
+            "modified": "2023-03-05T23:27:45.054Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
