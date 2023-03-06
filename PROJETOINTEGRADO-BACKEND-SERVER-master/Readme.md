@@ -40,9 +40,9 @@
 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Realiza a instalação do pacote `package.json`.
 
-- `npm i fetch`
+- `npm install axios`
 
-#### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> A Fetch API fornece uma interface para buscar recursos (por exemplo, em toda a rede) com recursos mais poderoso e flexível.
+#### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25">  Axios é um cliente HTTP baseado-em promessas para o node.js e para o navegador..
 
 - `npm i json-server --save`
 
@@ -50,7 +50,7 @@
 
 ---
 
-### Após vai no package.json em `scripts` e abaixo do `start` vai digitar da seguinte forma👇
+### Após vai no package.json `scripts`, vai em `start` e digita da seguinte forma👇
 
 "scripts": {
 
