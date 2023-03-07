@@ -1,3 +1,5 @@
+import axios from "axios";
+
 //APIS e Rotas
 
 // APIS do backend
