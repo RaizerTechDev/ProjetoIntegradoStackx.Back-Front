@@ -16,6 +16,18 @@
       {
         "id": 4,
         "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Australiano"
+      },
+      {
+        "id": 6,
+        "tipo": "Alentajano"
+      },
+      {
+        "id": 7,
+        "tipo": "Pão Sírio"
       }
     ],
     "carnes": [
@@ -34,6 +46,14 @@
       {
         "id": 4,
         "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Cupim"
+      },
+      {
+        "id": 6,
+        "tipo": "Panceta"
       }
     ],
     "opcionais": [
@@ -47,19 +67,32 @@
       },
       {
         "id": 3,
-        "tipo": "Salame"
+        "tipo": "Mozzarella "
       },
       {
         "id": 4,
+        "tipo": "Provolone "
+      },
+      {
+        "id": 5,
+        "tipo": "Salame"
+      },
+
+      {
+        "id": 6,
         "tipo": "Tomate"
       },
       {
-        "id": 4,
+        "id": 7,
         "tipo": "Cebola roxa"
       },
       {
-        "id": 4,
+        "id": 8,
         "tipo": "Pepino"
+      },
+      {
+        "id": 9,
+        "tipo": "Salame"
       }
     ]
   },
@@ -82,35 +115,33 @@
       "nome": "Rafael Raizer",
       "carne": "Picanha",
       "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Em produção",
+      "opcionais": ["Bacon", "Tomate", "Salame"],
+      "status": "Solicitado",
       "id": 1
+    },
+    {
+      "nome": "Márcia Varela ",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": ["Bacon", "Cebola roxa"],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "Mirian Goulart",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": ["Pepino"],
+      "status": "Solicitado",
+      "id": 3
     },
     {
       "nome": "João Coelho",
       "carne": "Maminha",
       "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
+      "opcionais": ["Salame", "Cebola roxa"],
+      "status": "Finalizado",
       "id": 4
-    },
-    {
-      "nome": "Márcia Varela",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Em Produção",
-      "id": 2
     }
   ]
 }
