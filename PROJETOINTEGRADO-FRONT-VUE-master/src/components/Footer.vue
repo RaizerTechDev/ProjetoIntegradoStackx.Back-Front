@@ -4,7 +4,7 @@
   <div id="footer">
     <p>
       Copyright 2023
-      <a href="https://portifolio-rafa-rz76.vercel.app/">RafaRz76Dev</a> All
+      <a href="https://portifolio-rafarz76dev.netlify.app/">RafaRz76Dev</a> All
       Rights Reserved
     </p>
   </div>
