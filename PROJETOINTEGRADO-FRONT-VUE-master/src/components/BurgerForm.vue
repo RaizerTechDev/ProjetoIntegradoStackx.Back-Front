@@ -86,7 +86,7 @@ export default {
   methods: {
     //listar os dados ingredientes
     async getIngredientes() {
-      const req = await fetch("https://projetointegrado-back-server.herokuapp.com/ingredientes");
+      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/ingredientes");
       const data = await req.json();
 
       this.paes = data.paes;
@@ -108,7 +108,7 @@ export default {
 
       const dataJson = JSON.stringify(data); // Enviar como texto ao servidor
 
-      const req = await fetch("https://projetointegrado-back-server.herokuapp.com/burgers", {
+      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/burgers", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: dataJson,
