@@ -71,7 +71,7 @@ export default {
   methods: {
     // listar Pedidos dos burgers
     async getPedidos() {
-      const req = await fetch("https://projetointegrado-back-server.herokuapp.com/burgers");
+      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/burgers");
 
       const data = await req.json();
 
@@ -83,7 +83,7 @@ export default {
 
     // Vai listar Pedidos dos burgers por ID
     async getBurger(id) {
-      const req = await fetch(`https://projetointegrado-back-server.herokuapp.com/burgers/${id}`, {
+      const req = await fetch(`https://projetointegrado-backend-server-production.up.railway.app/burgers/${id}`, {
         method: "GET",
       });
 
@@ -94,7 +94,7 @@ export default {
 
     // listar Status
     async getStatus() {
-      const req = await fetch("https://projetointegrado-back-server.herokuapp.com/status");
+      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/status");
 
       const data = await req.json();
 
@@ -103,7 +103,7 @@ export default {
 
     // deletar os burgers do pedido
     async deleteBurger(id) {
-      const req = await fetch(`https://projetointegrado-back-server.herokuapp.com/burgers/${id}`, {
+      const req = await fetch(`https://projetointegrado-backend-server-production.up.railway.app/burgers/${id}`, {
         method: "DELETE",
       });
 
