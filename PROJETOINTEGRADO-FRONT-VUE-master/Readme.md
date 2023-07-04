@@ -7,7 +7,7 @@
 ### <div align="center">
   # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95"> 
 
-### [Clique aqui para acessar o Projeto ```Make Your Burger```](https://rafarz76dev-projeto-back-front.netlify.app/)
+### [Clique aqui para acessar o Projeto ```Make Your Burger```]https://rafarz76dev-makeyourburger.netlify.app/)
   
   <br>
   
