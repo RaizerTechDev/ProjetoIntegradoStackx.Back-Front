@@ -28,11 +28,10 @@
 
 🎯 Back-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Json-Server & Nodejs```
 
+<br>
 
  <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-
-<br></br>
 
 ### [Clique aqui para acessar o Projeto](https://rafarz76dev-makeyourburger.netlify.app/)
 
