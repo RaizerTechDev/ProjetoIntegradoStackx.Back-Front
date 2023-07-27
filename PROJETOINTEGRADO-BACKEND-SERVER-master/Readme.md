@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95">
 
-### [Clique aqui para acessar o Projeto `Em json-server`](https://projetointegrado-backend-server-production.up.railway.app/)
+### [Clique aqui para acessar o Projeto `Em json-server`](https://projetointegrado-backend-server.onrender.com/)
 
   <br>
 
