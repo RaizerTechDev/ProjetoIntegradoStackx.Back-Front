@@ -71,7 +71,7 @@ export default {
   methods: {
     // listar Pedidos dos burgers
     async getPedidos() {
-      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/burgers");
+      const req = await fetch("https://projetointegrado-backend-server.onrender.com/burgers");
 
       const data = await req.json();
 
@@ -83,7 +83,7 @@ export default {
 
     // Vai listar Pedidos dos burgers por ID
     async getBurger(id) {
-      const req = await fetch(`https://projetointegrado-backend-server-production.up.railway.app/burgers/${id}`, {
+      const req = await fetch(`https://projetointegrado-backend-server.onrender.com/burgers/${id}`, {
         method: "GET",
       });
 
@@ -94,7 +94,7 @@ export default {
 
     // listar Status
     async getStatus() {
-      const req = await fetch("https://projetointegrado-backend-server-production.up.railway.app/status");
+      const req = await fetch("https://projetointegrado-backend-server.onrender.com/status");
 
       const data = await req.json();
 
@@ -103,7 +103,7 @@ export default {
 
     // deletar os burgers do pedido
     async deleteBurger(id) {
-      const req = await fetch(`https://projetointegrado-backend-server-production.up.railway.app/burgers/${id}`, {
+      const req = await fetch(`https://projetointegrado-backend-server.onrender.com/burgers/${id}`, {
         method: "DELETE",
       });
 
@@ -124,7 +124,7 @@ export default {
 
       const dataJson = JSON.stringify({ status: option }); //Para atualizar no banco do json-server
 
-      const req = await fetch(`https://projetointegrado-back-server.herokuapp.com/burgers/${id}`, {
+      const req = await fetch(`https://projetointegrado-backend-server.onrender.com/burgers/${id}`, {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
         body: dataJson,
