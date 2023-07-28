@@ -34,20 +34,29 @@
 ## Instalando para o projeto em vue.js no terminal power shell <img src="https://media.giphy.com/media/HPzNBFdTh8sxhqNdpX/giphy.gif" align="center" height="30" width="25">
 
 ### 1º Para instalar o pacote vs.js, use o seguinte comando:
-
-- `yarn global add @vue/cli`
+```bash
+  yarn global add @vue/cli
+```
 
 ### 2º Após a instalação, você terá acesso ao vue binário em sua linha de comando. Você pode verificar se ele está instalado corretamente simplesmente executando👇
-
-- `vue –version`
+```bash
+ `vue –version`
+```
 
 ### 3º Criando o Projeto Vue
+```bash
+   vue create nome do projeto ( ex. projetovew-web3.0)
+```
 
-- `vue create nome do projeto ( ex. projetovew-web3.0)`
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Quando perguntar digita:
+```bash
+   Default ([Vue 3] babel, eslint)
+```
 
-### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Quando perguntar digita: `Default ([Vue 3] babel, eslint)`
-
-### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Quando perguntar digita: `Use Yarn`
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Quando perguntar digita:
+```bash
+   Use Yarn
+```
 
 ## No terminal ao finalizar vai imprimir <img src="https://media.giphy.com/media/HPzNBFdTh8sxhqNdpX/giphy.gif" align="center" height="30" width="25">
 
@@ -69,43 +78,50 @@
 
 ### Atualizando o Pacote:
 
-- `npm update -g @vue/cli.`
+```bash
+   npm update -g @vue/cli.
+```
 
 ### Configuração do Projeto:
 
-- `yarn`
+```bash
+   yarn
+```
 
 ---
 ## Passo 02: Back-End no Vue.js
 
 ### 1º Vai instalar o json-server, use o seguinte comando:
 
-- `npm install json-server`
+```bash
+   npm install json-server
+```
 
 ### 2º Vai criar a pasta no VSCode a pasta `db` e o arquivo como `db.json`, assim criando os scripts.
 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Após a instalação do comando e a criação do db vai em package.json em `scripts` e abaixo do `build` vai acrescentar o Backend da seguinte forma:
 
-"scripts": {
-
-    "serve": "vue-cli-service serve",
-
-    "build": "vue-cli-service build",
-
-    "backend": "json-server --watch db/db.json"
-
+```scripts: {
+  serve: "vue-cli-service serve",
+  build: "vue-cli-service build",
+  backend: "json-server --watch db/db.json"
 },
+```
 
 ### 3º Execução do back-end no servidor:
 
-`npm run Backend`
+```bash
+npm run Backend
+```
 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Vai compilar na porta => http://localhost:3000/
 
 ---
 ### 4º Executar o projeto em front-end no servidor:
 
-- `yarn serve`
+```bash
+yarn serve
+```
 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Vai compilar na porta: http://localhost:8080/
 
