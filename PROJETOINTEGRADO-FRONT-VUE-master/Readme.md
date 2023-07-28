@@ -104,9 +104,7 @@
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Após a instalação do comando e a criação do db vai em package.json em `scripts` e abaixo do `build` vai acrescentar o Backend da seguinte forma:
 
 ```scripts: {
-  serve: "vue-cli-service serve",
-  build: "vue-cli-service build",
-  backend: "json-server --watch db/db.json"
+  "backend": "json-server --watch db/db.json",
 },
 ```
 
