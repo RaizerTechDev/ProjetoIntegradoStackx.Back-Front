@@ -76,7 +76,7 @@
   code .
 ```
 
-      ## Dentro do editor de código VSCode no ```terminal power shell```:
+## Dentro do editor de código VSCode no ```terminal power shell```:
 
 ### Atualizando o Pacote:
 
