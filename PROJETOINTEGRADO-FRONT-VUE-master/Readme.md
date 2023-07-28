@@ -5,7 +5,7 @@
 
 ---
 ### <div align="center">
-  # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95"> 
+  # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="80" width="80"> 
 
 ### [Clique aqui para acessar o Projeto ```Make Your Burger```](https://rafarz76dev-makeyourburger.netlify.app/)
   
@@ -145,7 +145,13 @@ yarn serve
 - [ style scooped](https://vue-loader.vuejs.org/guide/scoped-css.html)
 
 <br>
-  
----
-### Gostou, então já clica na 🌟
+
+   - ## <img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autor
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
+    <p>&nbsp&nbsp&nbspRafaRz76Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RafaRz76Dev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://portifolio-rafarz76dev.netlify.app/">Portfólio</a>&nbsp;</p>
+</p>
+
 
