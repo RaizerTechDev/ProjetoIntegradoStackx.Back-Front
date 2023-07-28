@@ -72,7 +72,9 @@
 
 ### 4º Agora sim vai Abrir o Projeto no Terminal para a ferramenta VSCode, digitando 👊
 
-- `code .`
+```bash
+  code .
+```
 
       ## Dentro do editor de código VSCode no ```terminal power shell```:
 
