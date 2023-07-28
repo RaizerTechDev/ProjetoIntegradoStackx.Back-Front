@@ -40,7 +40,7 @@
 
 ### 2º Após a instalação, você terá acesso ao vue binário em sua linha de comando. Você pode verificar se ele está instalado corretamente simplesmente executando👇
 ```bash
- `vue –version`
+ vue –version
 ```
 
 ### 3º Criando o Projeto Vue
