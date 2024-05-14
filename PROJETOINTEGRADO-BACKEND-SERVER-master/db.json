@@ -110,38 +110,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "Rafael Raizer",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": ["Bacon", "Tomate", "Salame"],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Márcia Varela ",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": ["Bacon", "Cebola roxa"],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Mirian Goulart",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": ["Pepino"],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "João Coelho",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": ["Salame", "Cebola roxa"],
-      "status": "Finalizado",
-      "id": 4
-    }
-  ]
+  "burgers": []
 }
